@@ -3,3 +3,4 @@
 p2 update p1 delete
 delete by p1
 
+p2 update p1 delete
